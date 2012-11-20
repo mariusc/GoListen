@@ -1,0 +1,1 @@
+# GoListenGoListen waa supposed to become a full RSS reader with text-to-speech capabilities. Due to lack of funding, the project was canceled, but I still have the prototype (proof of concept). In its current state, it just reads the latest 3 news from various RSS feeds. The news are in Romanian.
